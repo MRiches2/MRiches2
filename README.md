@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MRiches2
-- 👀 I’m interested in frontend
+- 👀 I am a frontend developer in training 
 
 
 
